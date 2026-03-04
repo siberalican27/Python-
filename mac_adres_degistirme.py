@@ -43,22 +43,4 @@ else:
 print("MyMyChanger Fİnish !")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # SiberAlican
